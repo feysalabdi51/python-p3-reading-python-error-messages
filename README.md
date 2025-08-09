@@ -26,7 +26,7 @@ is called.
 
 ***
 
-## Introduction
+## Introductiony
 
 In this lab, you'll be reading error messages from tests. This lab is designed
 so that both running the files _and_ running the test suite via the `pytest`
